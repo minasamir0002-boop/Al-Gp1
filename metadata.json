@@ -1,0 +1,6 @@
+{
+  "name": "RepMind AI",
+  "description": "AI-powered assistant for Medical Representatives to prepare before doctor visits, manage doctor profiles, store visit history, organize objections, and build an AI knowledge base.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
